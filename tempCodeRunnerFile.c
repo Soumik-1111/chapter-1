@@ -1,1 +1,1 @@
-}
+printf("Sum of row is : %d , Sum of column is : %d ",sumrow,sumcol);
